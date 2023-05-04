@@ -1,1 +1,5 @@
 # projects
+
+https://d.docs.live.net/f083833169eb2135/Documents/CREATING%20AND%20CONGIRUING%20MYSQL%20DATABASE%20IN%20CLOUD.docx
+
+
